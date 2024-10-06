@@ -24,7 +24,7 @@ public class BlueprintFlowerBlock extends FlowerBlock {
 		this.stewEffect = stewEffect;
 		this.stewEffectDuration = stewEffectDuration;
 	}
-//helloworld
+//helloworld здрасте я настя
 	@Override
 	public MobEffect getSuspiciousStewEffect() {
 		return this.stewEffect.get();
